@@ -1,0 +1,201 @@
+customer_id,customer_name,region,signup_date,customer_segment
+CUST001,Customer_1,Ibadan,2024-03-03,Corporate
+CUST002,Customer_2,Abuja,2022-09-06,Corporate
+CUST003,Customer_3,Ibadan,2023-03-15,Individual
+CUST004,Customer_4,Lagos,2023-11-03,Small Business
+CUST005,Customer_5,Lagos,2024-04-10,Individual
+CUST006,Customer_6,Kano,2024-02-03,Small Business
+CUST007,Customer_7,Lagos,2022-11-15,Individual
+CUST008,Customer_8,Kano,2023-03-19,Small Business
+CUST009,Customer_9,Kano,2024-01-30,Corporate
+CUST010,Customer_10,Abuja,2022-06-22,Small Business
+CUST011,Customer_11,Port Harcourt,2022-02-14,Individual
+CUST012,Customer_12,Kano,2024-03-10,Corporate
+CUST013,Customer_13,Kano,2023-02-07,Corporate
+CUST014,Customer_14,Lagos,2023-02-16,Individual
+CUST015,Customer_15,Abuja,2023-05-28,Small Business
+CUST016,Customer_16,Port Harcourt,2022-08-19,Individual
+CUST017,Customer_17,Abuja,2022-08-03,Corporate
+CUST018,Customer_18,Kano,2022-01-08,Individual
+CUST019,Customer_19,Abuja,2022-06-17,Individual
+CUST020,Customer_20,Kano,2022-01-09,Small Business
+CUST021,Customer_21,Port Harcourt,2023-01-31,Individual
+CUST022,Customer_22,Port Harcourt,2023-09-24,Individual
+CUST023,Customer_23,Abuja,2023-03-20,Individual
+CUST024,Customer_24,Kano,2023-01-04,Small Business
+CUST025,Customer_25,Port Harcourt,2024-04-08,Individual
+CUST026,Customer_26,Ibadan,2024-02-04,Corporate
+CUST027,Customer_27,Kano,2022-12-27,Individual
+CUST028,Customer_28,Lagos,2022-12-13,Small Business
+CUST029,Customer_29,Lagos,2024-04-11,Small Business
+CUST030,Customer_30,Kano,2022-09-26,Corporate
+CUST031,Customer_31,Abuja,2024-03-11,Individual
+CUST032,Customer_32,Ibadan,2023-05-01,Small Business
+CUST033,Customer_33,Kano,2023-10-16,Individual
+CUST034,Customer_34,Lagos,2022-12-30,Small Business
+CUST035,Customer_35,Port Harcourt,2023-09-09,Corporate
+CUST036,Customer_36,Abuja,2022-12-27,Individual
+CUST037,Customer_37,Ibadan,2022-03-04,Corporate
+CUST038,Customer_38,Abuja,2023-05-07,Small Business
+CUST039,Customer_39,Ibadan,2023-02-22,Individual
+CUST040,Customer_40,Kano,2022-06-29,Corporate
+CUST041,Customer_41,Abuja,2023-09-29,Corporate
+CUST042,Customer_42,Abuja,2022-02-04,Small Business
+CUST043,Customer_43,Ibadan,2023-03-10,Small Business
+CUST044,Customer_44,Kano,2022-02-12,Individual
+CUST045,Customer_45,Kano,2022-12-02,Small Business
+CUST046,Customer_46,Ibadan,2022-02-25,Corporate
+CUST047,Customer_47,Kano,2023-06-28,Individual
+CUST048,Customer_48,Ibadan,2024-04-24,Corporate
+CUST049,Customer_49,Port Harcourt,2023-03-27,Individual
+CUST050,Customer_50,Abuja,2024-04-13,Small Business
+CUST051,Customer_51,Ibadan,2024-03-25,Individual
+CUST052,Customer_52,Lagos,2023-11-09,Corporate
+CUST053,Customer_53,Ibadan,2023-11-17,Small Business
+CUST054,Customer_54,Abuja,2022-06-28,Individual
+CUST055,Customer_55,Abuja,2023-03-22,Corporate
+CUST056,Customer_56,Abuja,2024-05-16,Corporate
+CUST057,Customer_57,Ibadan,2022-07-12,Corporate
+CUST058,Customer_58,Kano,2023-02-06,Small Business
+CUST059,Customer_59,Ibadan,2024-02-03,Corporate
+CUST060,Customer_60,Port Harcourt,2023-06-29,Corporate
+CUST061,Customer_61,Abuja,2022-09-01,Corporate
+CUST062,Customer_62,Port Harcourt,2023-12-10,Small Business
+CUST063,Customer_63,Abuja,2024-02-26,Corporate
+CUST064,Customer_64,Port Harcourt,2023-08-05,Small Business
+CUST065,Customer_65,Lagos,2023-03-01,Individual
+CUST066,Customer_66,Kano,2023-12-11,Small Business
+CUST067,Customer_67,Abuja,2022-09-16,Individual
+CUST068,Customer_68,Kano,2023-10-01,Corporate
+CUST069,Customer_69,Abuja,2023-10-12,Corporate
+CUST070,Customer_70,Ibadan,2023-08-06,Corporate
+CUST071,Customer_71,Ibadan,2022-05-20,Individual
+CUST072,Customer_72,Lagos,2024-02-12,Individual
+CUST073,Customer_73,Port Harcourt,2024-02-21,Corporate
+CUST074,Customer_74,Ibadan,2022-04-28,Corporate
+CUST075,Customer_75,Port Harcourt,2024-06-09,Individual
+CUST076,Customer_76,Kano,2023-03-02,Corporate
+CUST077,Customer_77,Ibadan,2024-03-09,Individual
+CUST078,Customer_78,Lagos,2022-09-03,Individual
+CUST079,Customer_79,Port Harcourt,2024-05-31,Small Business
+CUST080,Customer_80,Port Harcourt,2022-09-13,Corporate
+CUST081,Customer_81,Lagos,2024-03-23,Individual
+CUST082,Customer_82,Kano,2023-12-12,Small Business
+CUST083,Customer_83,Lagos,2024-05-10,Small Business
+CUST084,Customer_84,Lagos,2023-06-22,Individual
+CUST085,Customer_85,Ibadan,2024-04-29,Small Business
+CUST086,Customer_86,Lagos,2023-12-04,Small Business
+CUST087,Customer_87,Kano,2023-05-20,Small Business
+CUST088,Customer_88,Lagos,2024-02-11,Small Business
+CUST089,Customer_89,Port Harcourt,2022-01-06,Individual
+CUST090,Customer_90,Ibadan,2024-03-08,Corporate
+CUST091,Customer_91,Lagos,2023-10-31,Corporate
+CUST092,Customer_92,Abuja,2023-09-22,Small Business
+CUST093,Customer_93,Ibadan,2022-03-16,Corporate
+CUST094,Customer_94,Lagos,2022-04-25,Small Business
+CUST095,Customer_95,Lagos,2024-01-15,Small Business
+CUST096,Customer_96,Port Harcourt,2023-02-15,Individual
+CUST097,Customer_97,Kano,2022-04-27,Small Business
+CUST098,Customer_98,Kano,2024-04-25,Small Business
+CUST099,Customer_99,Ibadan,2023-09-07,Small Business
+CUST100,Customer_100,Abuja,2023-05-04,Individual
+CUST101,Customer_101,Ibadan,2022-10-12,Small Business
+CUST102,Customer_102,Lagos,2024-01-30,Individual
+CUST103,Customer_103,Ibadan,2024-03-13,Corporate
+CUST104,Customer_104,Abuja,2024-04-29,Individual
+CUST105,Customer_105,Lagos,2023-11-23,Small Business
+CUST106,Customer_106,Ibadan,2023-12-17,Small Business
+CUST107,Customer_107,Abuja,2022-07-24,Corporate
+CUST108,Customer_108,Abuja,2024-04-08,Corporate
+CUST109,Customer_109,Lagos,2023-06-27,Small Business
+CUST110,Customer_110,Port Harcourt,2022-02-27,Individual
+CUST111,Customer_111,Ibadan,2024-01-14,Small Business
+CUST112,Customer_112,Kano,2022-09-04,Corporate
+CUST113,Customer_113,Port Harcourt,2023-11-08,Individual
+CUST114,Customer_114,Ibadan,2022-04-02,Individual
+CUST115,Customer_115,Ibadan,2024-05-07,Small Business
+CUST116,Customer_116,Lagos,2023-11-20,Small Business
+CUST117,Customer_117,Lagos,2023-05-29,Individual
+CUST118,Customer_118,Abuja,2023-04-23,Individual
+CUST119,Customer_119,Ibadan,2023-02-11,Corporate
+CUST120,Customer_120,Port Harcourt,2024-01-16,Individual
+CUST121,Customer_121,Lagos,2024-01-12,Small Business
+CUST122,Customer_122,Port Harcourt,2023-04-29,Individual
+CUST123,Customer_123,Lagos,2023-12-27,Small Business
+CUST124,Customer_124,Ibadan,2022-02-09,Small Business
+CUST125,Customer_125,Lagos,2022-11-12,Corporate
+CUST126,Customer_126,Lagos,2022-08-27,Corporate
+CUST127,Customer_127,Kano,2022-08-12,Small Business
+CUST128,Customer_128,Lagos,2023-08-10,Individual
+CUST129,Customer_129,Kano,2023-09-21,Small Business
+CUST130,Customer_130,Port Harcourt,2024-05-22,Individual
+CUST131,Customer_131,Abuja,2023-11-12,Individual
+CUST132,Customer_132,Ibadan,2024-01-27,Corporate
+CUST133,Customer_133,Abuja,2023-09-15,Corporate
+CUST134,Customer_134,Ibadan,2023-06-06,Individual
+CUST135,Customer_135,Lagos,2022-08-11,Corporate
+CUST136,Customer_136,Port Harcourt,2022-06-15,Small Business
+CUST137,Customer_137,Kano,2022-09-10,Corporate
+CUST138,Customer_138,Kano,2023-11-13,Individual
+CUST139,Customer_139,Lagos,2022-03-29,Individual
+CUST140,Customer_140,Lagos,2024-03-17,Individual
+CUST141,Customer_141,Ibadan,2023-11-06,Small Business
+CUST142,Customer_142,Abuja,2022-11-04,Corporate
+CUST143,Customer_143,Kano,2022-02-08,Individual
+CUST144,Customer_144,Ibadan,2022-01-22,Corporate
+CUST145,Customer_145,Ibadan,2023-05-11,Small Business
+CUST146,Customer_146,Abuja,2023-06-21,Individual
+CUST147,Customer_147,Ibadan,2022-03-15,Individual
+CUST148,Customer_148,Abuja,2024-05-04,Corporate
+CUST149,Customer_149,Port Harcourt,2022-04-08,Individual
+CUST150,Customer_150,Port Harcourt,2023-01-22,Small Business
+CUST151,Customer_151,Ibadan,2024-03-05,Individual
+CUST152,Customer_152,Kano,2022-03-13,Individual
+CUST153,Customer_153,Ibadan,2024-02-23,Individual
+CUST154,Customer_154,Kano,2022-11-02,Small Business
+CUST155,Customer_155,Kano,2022-01-01,Individual
+CUST156,Customer_156,Port Harcourt,2023-11-02,Small Business
+CUST157,Customer_157,Lagos,2022-09-28,Small Business
+CUST158,Customer_158,Lagos,2022-03-26,Individual
+CUST159,Customer_159,Lagos,2022-08-17,Small Business
+CUST160,Customer_160,Port Harcourt,2023-06-27,Individual
+CUST161,Customer_161,Abuja,2023-09-19,Individual
+CUST162,Customer_162,Ibadan,2023-01-10,Individual
+CUST163,Customer_163,Port Harcourt,2023-03-06,Small Business
+CUST164,Customer_164,Abuja,2023-03-21,Small Business
+CUST165,Customer_165,Lagos,2024-01-10,Individual
+CUST166,Customer_166,Port Harcourt,2023-06-27,Small Business
+CUST167,Customer_167,Ibadan,2023-08-20,Corporate
+CUST168,Customer_168,Ibadan,2024-02-03,Individual
+CUST169,Customer_169,Abuja,2023-08-16,Corporate
+CUST170,Customer_170,Ibadan,2022-06-03,Individual
+CUST171,Customer_171,Port Harcourt,2024-03-03,Corporate
+CUST172,Customer_172,Lagos,2022-03-16,Individual
+CUST173,Customer_173,Kano,2023-12-12,Small Business
+CUST174,Customer_174,Abuja,2023-10-06,Small Business
+CUST175,Customer_175,Abuja,2022-09-08,Individual
+CUST176,Customer_176,Kano,2022-12-10,Individual
+CUST177,Customer_177,Abuja,2022-12-30,Corporate
+CUST178,Customer_178,Kano,2024-04-30,Individual
+CUST179,Customer_179,Abuja,2022-01-28,Corporate
+CUST180,Customer_180,Kano,2024-01-01,Small Business
+CUST181,Customer_181,Lagos,2023-03-19,Corporate
+CUST182,Customer_182,Kano,2023-02-08,Corporate
+CUST183,Customer_183,Ibadan,2024-05-18,Small Business
+CUST184,Customer_184,Lagos,2024-04-07,Small Business
+CUST185,Customer_185,Abuja,2023-10-10,Corporate
+CUST186,Customer_186,Abuja,2023-04-07,Corporate
+CUST187,Customer_187,Port Harcourt,2023-03-26,Corporate
+CUST188,Customer_188,Kano,2024-02-01,Individual
+CUST189,Customer_189,Port Harcourt,2024-04-16,Corporate
+CUST190,Customer_190,Port Harcourt,2024-03-26,Individual
+CUST191,Customer_191,Ibadan,2023-07-23,Small Business
+CUST192,Customer_192,Lagos,2023-04-12,Small Business
+CUST193,Customer_193,Ibadan,2023-08-16,Individual
+CUST194,Customer_194,Lagos,2023-02-06,Individual
+CUST195,Customer_195,Kano,2023-04-04,Corporate
+CUST196,Customer_196,Kano,2023-05-13,Corporate
+CUST197,Customer_197,Port Harcourt,2022-10-10,Corporate
+CUST198,Customer_198,Port Harcourt,2022-06-23,Small Business
+CUST199,Customer_199,Port Harcourt,2022-08-03,Small Business
+CUST200,Customer_200,Kano,2022-02-16,Small Business

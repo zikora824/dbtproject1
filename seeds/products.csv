@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+PROD001,Tricycle Tyre,Tyres,15000
+PROD002,Engine Oil,Lubricants,5000
+PROD003,Brake Pad,Braking,8000
+PROD004,Spark Plug,Electrical,3000
+PROD005,Air Filter,Filters,4000
+PROD006,Fuel Pump,Engine,25000
+PROD007,Shock Absorber,Suspension,18000
+PROD008,Battery,Electrical,35000
+PROD009,Headlight,Lighting,12000
+PROD010,Clutch Plate,Transmission,20000

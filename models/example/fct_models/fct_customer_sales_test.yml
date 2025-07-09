@@ -1,0 +1,32 @@
+version: 2
+models:
+  - name: fct_customer_sales
+    description: "Aggregated customer sales and payment completion metrics."
+    columns:
+      - name: customer_id
+        description: "Unique identifier for the customer."
+        tests:
+          - not_null
+          - unique
+          
+      - name: order_count
+        description: "Number of orders per customer."
+        tests:
+          - not_null
+
+      - name: total_sales
+        description: "Total sales amount for the customer."
+        tests:
+          - not_null
+          
+      - name: avg_order_value
+        description: "Average order value for the customer."
+        tests:
+          - not_null
+
+      - name: payment_completion_rate_percent
+        description: "Percentage of completed payments for the customer."
+        tests:
+          - not_null
+          
+      

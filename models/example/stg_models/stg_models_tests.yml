@@ -1,0 +1,130 @@
+version: 2
+
+models:
+  - name: stg_customers
+    description: "cleans the customers source"
+    columns:
+      - name: customer_id
+        description: "Alphanumeric-only customer ID"
+        tests:
+          - not_null
+          - unique
+
+      - name: customer_name
+        description: "Trimmed name containing letters, digits, underscores, spaces"
+        tests:
+          - not_null
+
+      - name: region
+        description: "Trimmed region containing letters, digits, spaces"
+        tests:
+          - not_null
+
+      - name: signup_date
+        description: "Signup date cast to DATE type"
+        tests:
+          - not_null
+
+      - name: customer_segment
+        description: "Trimmed customer segment with letters, digits, spaces"
+        tests:
+          - not_null
+
+  - name: stg_orders
+    description: "cleans the orders source"
+    
+    columns:
+      - name: order_id
+        description: "Original order ID"
+        tests:
+          - not_null
+          - unique
+
+      - name: customer_id
+        description: "Alphanumeric customer ID matching cleaned_customers"
+        tests:
+          - not_null
+          
+
+      - name: order_date
+        description: "Order date cast to DATE"
+        tests:
+          - not_null
+
+      - name: product_id
+        description: "Formatted product ID (digits only, prefixed)"
+        tests:
+          - not_null
+          
+
+      - name: quantity
+        description: "Cleaned integer quantity, positive"
+        tests:
+          - not_null
+          
+
+      - name: total_amount
+        description: "Cleaned and cast total amount as integer"
+        tests:
+          - not_null
+          
+
+      - name: payment_status
+        description: "Normalized payment status in lowercase"
+        tests:
+          - not_null
+
+      - name: payment_method
+        description: "Normalized payment method in lowercase"
+        tests:
+          - not_null
+
+  - name: stg_payments
+    description: "cleans the payments source"
+    columns:
+      - name: order_id
+        description: "Formatted order ID (digits only, prefixed)"
+        tests:
+          - not_null
+          - unique
+
+      - name: payment_date
+        description: "Payment date with default for missing"
+        tests:
+          - not_null
+
+      - name: payment_method
+        description: "Alphabetical payment method or 'no payment'"
+        tests:
+          - not_null
+
+      - name: total_amount
+        description: "Cleaned integer amount or 0 when invalid"
+        tests:
+          - not_null
+          
+
+  - name: stg_products
+    description: "cleans the products source"
+    columns:
+      - name: product_id
+        description: "Product ID formatted as 'PRODxxx'"
+        tests:
+          - not_null
+          - unique
+
+      - name: product_name
+        description: "Cleaned and Title-cased product name"
+        tests:
+          - not_null
+
+      - name: category
+        description: "Cleaned and Title-cased product category"
+        tests:
+          - not_null
+
+      - name: price
+        description: "Cleaned integer price, zero or positive"
+        tests:
+          - not_null
+          
